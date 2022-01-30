@@ -1,0 +1,23 @@
+{
+  "name": "projects-creator",
+  "version": "1.0.0",
+  "description": "Create projects easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Augusto-Barbosa-Aparecido/projects-creator.git"
+  },
+  "author": "Pedro Augusto Barbosa Aparecido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-Augusto-Barbosa-Aparecido/projects-creator/issues"
+  },
+  "homepage": "https://github.com/Pedro-Augusto-Barbosa-Aparecido/projects-creator#readme",
+  "dependencies": {
+    "electron": "^16.0.8"
+  }
+}
